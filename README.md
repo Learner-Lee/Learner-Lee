@@ -4,12 +4,8 @@
 
 <br/>
 
-I build end-to-end data systems — from raw messy inputs to deployed, interpretable results.  
 Currently: **M.Sc. AI @ HKEdUHK** · Previously: **Big Data Intern @ Google Beijing**
 
----
-
-### 🛠 What I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
