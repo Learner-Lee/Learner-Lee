@@ -4,30 +4,27 @@
 
 <br/>
 
-<div align="center">
+<p align="center">
   Currently: **M.Sc. AI @ HKEdUHK** · Previously: **Big Data Intern @ Google Beijing**
-</div>
+</p>
 
 ---
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
-    <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
-    <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Power_BI_Associate-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Codility-Gold-FFD700?style=flat-square" />
-    <img src="https://img.shields.io/badge/蓝桥杯-省二等奖-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/GPA-3.64_TOP_3%25-6366f1?style=flat-square" />
-  </p>
+<p align="center">
+  `AWS Certified AI Practitioner` · `Microsoft Power BI Associate` · `Codility Gold` · `蓝桥杯省二` · `GPA 3.64 TOP 3%`
+</p>
+
 
 
 <div align="center">
