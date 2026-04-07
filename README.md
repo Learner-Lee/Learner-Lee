@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  `AWS Certified AI Practitioner` · `Microsoft Power BI Associate` · `Codility Gold` · `蓝桥杯省二` · `GPA 3.64 TOP 3%`
+  <code>AWS Certified AI Practitioner</code> · <code>Microsoft Power BI Associate</code> · <code>Codility Gold</code> · <code>蓝桥杯省二</code> · <code>GPA 3.64 TOP 3%</code>
 </p>
 
 
