@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  Currently: **M.Sc. AI @ HKEdUHK** · Previously: **Big Data Intern @ Google Beijing**
+  Currently: <b>M.Sc. AI @ HKEdUHK</b> · Previously: <b>Big Data Intern @ Google Beijing</b>
 </p>
 
 ---
